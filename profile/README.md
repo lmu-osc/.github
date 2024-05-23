@@ -5,7 +5,7 @@ Contact: malika.ihle@lmu.de
 
 🚧 Update 2024: We are currently rebranding and upgrading our tutorials. They will then all be linked and displayed on the website: https://lmu-osc.github.io/resources/  🚧
 
-For the moment, here are the direct links to our completed and tersted out self-paced tutorials:
+For the moment, here are the direct links to our completed and tested out self-paced tutorials:
 - [Introduction to R](https://lmu-osc.github.io/introduction-to-R/)
 - [Introduction to Julia](https://lmu-osc.github.io/introduction-to-Julia/)
 - [Introduction to version control within RStudio (version control - part 1)](https://lmu-osc.github.io/Introduction-RStudio-Git-GitHub/)
