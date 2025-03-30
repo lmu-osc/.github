@@ -28,8 +28,7 @@ For the moment, here are the direct links to our completed and tested out self-p
 
 # GitHub Education for Students and Educational Staff
 
-If you are a student, teacher, professor, or otherwise associated to a school or university, then you are likely eligible for GitHub Education! This has two main benefits that may be of interest to you:
-
+If you are a student, teacher, professor, or otherwise associated with a school or university, then you are likely eligible for GitHub Education! This has two main benefits that may be of interest to you:
 1. Free access to GitHub Copilot which you can then link to your favorite code/text editor like RStudio, Visual Studio Code, etc.
 2. Free access to GitHub Pro.
 
