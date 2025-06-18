@@ -62,10 +62,15 @@ For questions or collaboration, feel free to reach out to [✉️Malike Ihle.](m
 
 ---
 
+Discover more about the LMU Open Science Center and explore upcoming resources, tutorials, and project updates.
+
 - [About LMU Open Science Center](https://www.osc.uni-muenchen.de/about_us/index.html)
 - [New Website (coming soon)](https://lmu-osc.github.io/)
 
+<br>
+
 ---
+### Additional Resources
 
 🎓 GitHub Education for Students & Educators
 
