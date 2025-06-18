@@ -68,7 +68,7 @@ Discover more about the LMU Open Science Center and explore upcoming resources, 
 ---
 ### Additional Resources
 
-🎓 GitHub Education for Students & Educators
+🎓 **GitHub Education for Students & Educators** 
 
   If you are a student, teacher, professor, or otherwise associated with a school or university, then you are likely eligible for GitHub Education. You may be eligible for GitHub Education benefits, including free access to:
 
