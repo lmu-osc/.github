@@ -1,6 +1,7 @@
 <p align ="center">
   <img src="https://www.osc.uni-muenchen.de/media/lmu-osc_logo_small.jpg" alt="LMU OSC Logo">
 </p>
+
 ---
 
 Welcome to the GitHub organization of the LMU Open Science Center! 
@@ -13,7 +14,9 @@ We are a researcher-led initiative promoting open and reproducible research prac
 <!---tutorials section --->
 
 <h3>📚 Our Projects</h3>
+
 ---
+
 Below are the links to our completed and self-paced tutorials focused on reproducible research, data simulation, and collaborative workflows in R and more.
 
 
