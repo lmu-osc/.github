@@ -3,7 +3,7 @@
 </p>
 
 
-Welcome to the GitHub organization of the **LMU Open Science Center**! 
+Welcome to the GitHub organization of the LMU Open Science Center! 
 We are a researcher-led initiative promoting open and reproducible research practices at the university LMU Munich and beyond.
 
 >[!NOTE]
@@ -65,12 +65,9 @@ For questions or collaboration, feel free to reach out to [✉️Malike Ihle.](m
 - [About LMU Open Science Center](https://www.osc.uni-muenchen.de/about_us/index.html)
 - [New Website (coming soon)](https://lmu-osc.github.io/)
 
-<br>
+---
 
->[!TIP]
->🎓 GitHub Education for Students & Educators
-
---- 
+🎓 GitHub Education for Students & Educators
 
   If you are a student, teacher, professor, or otherwise associated with a school or university, then you are likely eligible for GitHub Education. You may be eligible for GitHub Education benefits, including free access to:
 
