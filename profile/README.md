@@ -1,15 +1,25 @@
+<br>
+<p align ="center">
+  <img src="https://www.osc.uni-muenchen.de/media/lmu-osc_logo_small.jpg" alt="LMU OSC Logo">
+</p>
+<br>
+
 Welcome to the GitHub organization of the LMU Open Science Center! 
-We are a researcher-led initiative promoting open and reproducible research practices at the university LMU Munich and beyond. 
-You are invited to contribute pull requests and open GitHub issues on any of our computing skill tutorials. Contributors will be acknowledged and listed publicly! 
-Contact: malika.ihle@lmu.de 
+We are a researcher-led initiative promoting open and reproducible research practices at the university LMU Munich and beyond.
+<br>
+>[!NOTE]
+> We are currently preparing a website that will nicely display all our tutorials on offer.
 
-🚧 Update 2025: We are currently preparing a website that will nicely display all our tutorials on offer 🚧
+<!---tutorials section --->
 
-For the moment, here are the direct links to our completed and tested out self-paced tutorials:
+<h3>📚 Our Projects</h3>
 
-# Our Tutorials
+---
+Below are the links to our completed and self-paced tutorials focused on reproducible research, data simulation, and collaborative workflows in R and more.
 
-## Reproducible workflow in R:
+<details>
+<summary><strong> Reproducible Workflow in R</strong></summary>
+
 - [Introduction to R](https://lmu-osc.github.io/introduction-to-R/)
 - [Introduction to version control within RStudio (version control - part 1)](https://lmu-osc.github.io/Introduction-RStudio-Git-GitHub/)
 - [Introduction to collaborative coding with Github (version control - part 2)](https://lmu-osc.github.io/Collaborative-RStudio-GitHub/)
@@ -18,18 +28,54 @@ For the moment, here are the direct links to our completed and tested out self-p
 - [Introduction to Zotero as reproducible citation management system](https://lmu-osc.github.io/introduction-to-zotero/)
 - [Wrap-up tutorial: publish your reproducible project](https://lmu-osc.github.io/code-publishing/)
 
-## Designing reliable studies:
+</details>
+
+<details>
+<summary><strong> Designing Reliable Studies</strong></summary>
+
 - [Introduction to data simulation in R](https://lmu-osc.github.io/Introduction-Simulations-in-R/)
 - [Simulations of data in R for advanced power analyses](https://lmu-osc.github.io/Simulations-for-Advanced-Power-Analyses/)
 
-## Some nice extras!
+</details>
+
+<details>
+<summary><strong> Nice Extras</strong></summary>
+
 - [Introduction to Julia](https://lmu-osc.github.io/introduction-to-Julia/)
 - [FAIR data management](https://lmu-osc.github.io/FAIR-Data-Management/)
 
-# GitHub Education for Students and Educational Staff
+</details>
 
-If you are a student, teacher, professor, or otherwise associated with a school or university, then you are likely eligible for GitHub Education! This has two main benefits that may be of interest to you:
-1. Free access to GitHub Copilot which you can then link to your favorite code/text editor like RStudio, Visual Studio Code, etc.
-2. Free access to GitHub Pro.
 
-More details can be found at the [GitHub Education](https://github.com/education) site.
+### 🤝 Contributing
+
+---
+
+You are invited to contribute pull requests and open GitHub issues on any of our computing skill tutorials. Contributors will be acknowledged and listed publicly!
+For questions or collaboration, feel free to reach out to [✉️Malike Ihle.](mailto:malika.ihle@lmu.de)
+
+
+
+<!---Website links--->
+### Learn More
+
+---
+
+Discover more about the LMU Open Science Center and explore upcoming resources, tutorials, and project updates.
+
+- [About LMU Open Science Center](https://www.osc.uni-muenchen.de/about_us/index.html)
+- [New Website (coming soon)](https://lmu-osc.github.io/)
+
+### Additional Resources
+
+---
+
+🎓 **GitHub Education for Students & Educators** 
+
+  If you are a student, teacher, professor, or otherwise associated with a school or university, then you are likely eligible for GitHub Education. You may be eligible for GitHub Education benefits, including free access to:
+
+  - **GitHub Copilot** – an AI assistant for coding in RStudio, VS Code, etc.
+
+  - **GitHub Pro** – includes unlimited collaborators, advanced CI/CD, and more.
+
+  More details can be found at the [GitHub Education](https://github.com/education) site.
