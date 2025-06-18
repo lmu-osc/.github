@@ -65,8 +65,9 @@ Discover more about the LMU Open Science Center and explore upcoming resources, 
 - [About LMU Open Science Center](https://www.osc.uni-muenchen.de/about_us/index.html)
 - [New Website (coming soon)](https://lmu-osc.github.io/)
 
----
 ### Additional Resources
+
+---
 
 🎓 **GitHub Education for Students & Educators** 
 
