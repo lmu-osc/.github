@@ -13,8 +13,7 @@ We are a researcher-led initiative promoting open and reproducible research prac
 <!---tutorials section --->
 
 <h3>📚 Our Projects</h3>
-
-***
+---
 Below are the links to our completed and self-paced tutorials focused on reproducible research, data simulation, and collaborative workflows in R and more.
 
 <details>
@@ -48,8 +47,7 @@ Below are the links to our completed and self-paced tutorials focused on reprodu
 
 
 ### 🤝 Contributing 
-
-___
+---
 
 You are invited to contribute pull requests and open GitHub issues on any of our computing skill tutorials. Contributors will be acknowledged and listed publicly!
 For questions or collaboration, feel free to reach out to [✉️Malike Ihle.](mailto:malika.ihle@lmu.de)
