@@ -1,3 +1,4 @@
+<br>
 <p align ="center">
   <img src="https://www.osc.uni-muenchen.de/media/lmu-osc_logo_small.jpg" alt="LMU OSC Logo">
 </p>
@@ -5,16 +6,16 @@
 
 Welcome to the GitHub organization of the LMU Open Science Center! 
 We are a researcher-led initiative promoting open and reproducible research practices at the university LMU Munich and beyond.
-
-> **Update:** We are currently preparing a website that will nicely display all our tutorials on offer.
-
+<br>
+>[!NOTE]
+> We are currently preparing a website that will nicely display all our tutorials on offer.
 
 <!---tutorials section --->
 
 <h3>📚 Our Projects</h3>
-<hr>
-Below are the links to our completed and self-paced tutorials focused on reproducible research, data simulation, and collaborative workflows in R and more.
 
+---
+Below are the links to our completed and self-paced tutorials focused on reproducible research, data simulation, and collaborative workflows in R and more.
 
 <details>
 <summary><strong> Reproducible Workflow in R</strong></summary>
@@ -46,21 +47,30 @@ Below are the links to our completed and self-paced tutorials focused on reprodu
 </details>
 
 
-### 🤝 Contributing 
-<hr>
+### 🤝 Contributing
+
+---
+
 You are invited to contribute pull requests and open GitHub issues on any of our computing skill tutorials. Contributors will be acknowledged and listed publicly!
 For questions or collaboration, feel free to reach out to [✉️Malike Ihle.](mailto:malika.ihle@lmu.de)
 
 
+
 <!---Website links--->
 ### Learn More
-<hr>
+
+---
+
+Discover more about the LMU Open Science Center and explore upcoming resources, tutorials, and project updates.
+
 - [About LMU Open Science Center](https://www.osc.uni-muenchen.de/about_us/index.html)
 - [New Website (coming soon)](https://lmu-osc.github.io/)
 
-<br>
- 🎓 GitHub Education for Students & Educators
-<hr>
+### Additional Resources
+
+---
+
+🎓 **GitHub Education for Students & Educators** 
 
   If you are a student, teacher, professor, or otherwise associated with a school or university, then you are likely eligible for GitHub Education. You may be eligible for GitHub Education benefits, including free access to:
 
