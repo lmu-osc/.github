@@ -12,12 +12,12 @@ We are a researcher-led initiative promoting open and reproducible research prac
 
 <!---tutorials section --->
 
-<h3>📚 Our Projects</h3>
+### 📚 Our Projects
 
 ---
 Below are the links to our completed and self-paced tutorials focused on reproducible research, data simulation, and collaborative workflows in R and more.
 
-##### Reproducible Workflow in R
+#### Reproducible Workflow in R
 
 - [Introduction to R](https://lmu-osc.github.io/introduction-to-R/)
 - [Introduction to version control within RStudio (version control - part 1)](https://lmu-osc.github.io/Introduction-RStudio-Git-GitHub/)
@@ -27,12 +27,12 @@ Below are the links to our completed and self-paced tutorials focused on reprodu
 - [Introduction to Zotero as reproducible citation management system](https://lmu-osc.github.io/introduction-to-zotero/)
 - [Wrap-up tutorial: publish your reproducible project](https://lmu-osc.github.io/code-publishing/)
 
-##### Designing Reliable Studies
+#### Designing Reliable Studies
 
 - [Introduction to data simulation in R](https://lmu-osc.github.io/Introduction-Simulations-in-R/)
 - [Simulations of data in R for advanced power analyses](https://lmu-osc.github.io/Simulations-for-Advanced-Power-Analyses/)
 
-##### Nice Extras
+#### Nice Extras
 
 - [Introduction to Julia](https://lmu-osc.github.io/introduction-to-Julia/)
 - [FAIR data management](https://lmu-osc.github.io/FAIR-Data-Management/)
