@@ -32,11 +32,17 @@ Below are the links to our completed and self-paced tutorials focused on reprodu
 - [Introduction to data simulation in R](https://lmu-osc.github.io/Introduction-Simulations-in-R/)
 - [Simulations of data in R for advanced power analyses](https://lmu-osc.github.io/Simulations-for-Advanced-Power-Analyses/)
 
-#### Nice Extras
+#### Research data management and sharing
+
+- [FAIR data management](https://lmu-osc.github.io/FAIR-Data-Management/)
+- [Data documentation (e.g. data dictionaries) and data validation](https://lmu-osc.github.io/data-documentation-validation-R/)
+- Data anonymity (in progress)
+- [Creating and sharing synthetic data as a susbtitute for sensitive data](https://lmu-osc.github.io/synthetic-data-tutorial/)
+
+#### Extras
 
 - [Introduction to Julia](https://lmu-osc.github.io/introduction-to-Julia/)
-- [FAIR data management](https://lmu-osc.github.io/FAIR-Data-Management/)
-
+  
 ### 🤝 Contributing
 
 ---
