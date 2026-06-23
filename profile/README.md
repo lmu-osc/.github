@@ -1,6 +1,6 @@
 <br>
 <p align ="center">
-  <img src="https://www.osc.uni-muenchen.de/media/lmu-osc_logo_small.jpg" alt="LMU OSC Logo">
+  <img src="lmu_osc_logo.jpg" alt="LMU OSC Logo">
 </p>
 <br>
 
