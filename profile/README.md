@@ -1,8 +1,3 @@
-<br>
-<p align ="center">
-  <img src="lmu_osc_logo.jpg" alt="LMU OSC Logo">
-</p>
-<br>
 
 Welcome to the GitHub organization of the LMU Open Science Center! 
 We are a researcher-led initiative promoting open and reproducible research practices at the university LMU Munich and beyond.
