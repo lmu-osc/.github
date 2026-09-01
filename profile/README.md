@@ -31,7 +31,7 @@ Below are the links to our completed and self-paced tutorials focused on reprodu
 
 - [FAIR data management](https://lmu-osc.github.io/FAIR-Data-Management/)
 - [Data documentation (e.g. data dictionaries) and data validation](https://lmu-osc.github.io/data-documentation-validation-R/)
-- Data anonymity (in progress)
+- [Data anonymization](https://lmu-osc.github.io/data-anonymization/)
 - [Creating and sharing synthetic data as a susbtitute for sensitive data](https://lmu-osc.github.io/synthetic-data-tutorial/)
 
 #### Extras
